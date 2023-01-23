@@ -1,1 +1,1 @@
-console.error("hello world, this is dev2");
+console.error("hello people");
